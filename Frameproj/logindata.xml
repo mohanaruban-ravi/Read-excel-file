@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="login data">
+	<test name="login data test">
+		<classes>
+			<class name="loginTestcase.login"/>
+
+		</classes>
+	</test>
+</suite>

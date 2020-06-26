@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16850" started-at="2020-01-30T20:56:16 IST" finished-at="2020-01-30T20:56:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16850" started-at="2020-01-30T20:56:16 IST" finished-at="2020-01-30T20:56:33 IST">
+      <class name="loginTestcase.Dataprovjxl">
+        <test-method status="PASS" signature="beforemento()[pri:0, instance:loginTestcase.Dataprovjxl@7d907bac]" name="beforemento" is-config="true" duration-ms="5707" started-at="2020-01-30T20:56:16 IST" finished-at="2020-01-30T20:56:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemento -->
+        <test-method status="PASS" signature="logindataprov(java.lang.String, java.lang.String)[pri:0, instance:loginTestcase.Dataprovjxl@7d907bac]" name="logindataprov" duration-ms="6767" started-at="2020-01-30T20:56:22 IST" data-provider="logindata" finished-at="2020-01-30T20:56:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin1231]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindataprov -->
+        <test-method status="PASS" signature="logindataprov(java.lang.String, java.lang.String)[pri:0, instance:loginTestcase.Dataprovjxl@7d907bac]" name="logindataprov" duration-ms="1207" started-at="2020-01-30T20:56:29 IST" data-provider="logindata" finished-at="2020-01-30T20:56:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindataprov -->
+        <test-method status="PASS" signature="logindataprov(java.lang.String, java.lang.String)[pri:0, instance:loginTestcase.Dataprovjxl@7d907bac]" name="logindataprov" duration-ms="867" started-at="2020-01-30T20:56:30 IST" data-provider="logindata" finished-at="2020-01-30T20:56:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin1231]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindataprov -->
+        <test-method status="PASS" signature="logindataprov(java.lang.String, java.lang.String)[pri:0, instance:loginTestcase.Dataprovjxl@7d907bac]" name="logindataprov" duration-ms="997" started-at="2020-01-30T20:56:31 IST" data-provider="logindata" finished-at="2020-01-30T20:56:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindataprov -->
+        <test-method status="PASS" signature="afteremthod()[pri:0, instance:loginTestcase.Dataprovjxl@7d907bac]" name="afteremthod" is-config="true" duration-ms="822" started-at="2020-01-30T20:56:32 IST" finished-at="2020-01-30T20:56:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afteremthod -->
+      </class> <!-- loginTestcase.Dataprovjxl -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
